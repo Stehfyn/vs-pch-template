@@ -1,2 +1,2 @@
 # vs-pch-template
-Automated project template that simplifies sharing pre-compiled headers between multiple projects in Visual Studio.
+Automated project template for Windows that simplifies sharing pre-compiled headers between multiple projects in Visual Studio.

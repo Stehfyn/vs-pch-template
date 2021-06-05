@@ -1,0 +1,10 @@
+#Dir
+.vs/
+build/
+
+#Files
+*.user
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
