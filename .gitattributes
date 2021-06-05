@@ -1,7 +1,11 @@
 Source:
 https://github.com/alexkaratarakis/gitattributes/blob/master/.gitattributes
 
-# THIS IS ONLY FOR THE gitattributes REPOSITORY.
+*.xml linguist-detectable=true
+*.cpp linguist-detectable=true
+*.lua linguist-detectable=true
+*.bat linguist-detectable=true
+
 # Handle line endings automatically for files detected as text
 # and leave all files detected as binary untouched.
 *               text=auto
