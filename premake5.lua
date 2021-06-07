@@ -20,6 +20,8 @@ workspace "vs-template-project"
     cppdialect "C++latest"
     system "windows"
 
+	startproject "project1"
+	
 	importprops (MSBUILD_MACROS)
 
 	project "sharedpch"
