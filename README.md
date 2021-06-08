@@ -26,7 +26,8 @@
     - Seamlessly share pre-compiled headers across multiple Visual Studio projects.
   
   * _Cross-Platform_ Compatibility
-    - Windows or MacOS
+    - **Windows**
+    - **MacOS**
 
 ## Prerequisites
   * **Windows**
