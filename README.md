@@ -15,9 +15,8 @@
 </p>
   
 ## Key Features
-  * _Simplified_ Project Configuration with [Premake5](https://github.com/premake/premake-core)
-    - Use Lua to:
-  > Script Once, Target Many.
+  * _Simplified_ Build Configuration with [Premake5](https://github.com/premake/premake-core)
+    - 
   * _Speedy_ Directory Management with [Batch Scripts](https://github.com/Stehfyn/vs-pch-template/tree/main/scripts/buildvs)
     - Build, Clean, and Re-build project **.sln** and **.vcxproj** files **from scratch**.
     - Clean Output and Intermediate directories for all configurations and platforms.
