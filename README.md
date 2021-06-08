@@ -15,7 +15,7 @@
 </p>
   
 ## Key Features
-  * Simple Directory Management
+  * _Speedy_ Directory Management
     - Build, Clean, and Re-build project .sln and .vcxproj files
     - Clean both Output and Intermediate directories for all configurations and platforms
   * Simplified/Extended PCH Support
