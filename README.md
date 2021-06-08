@@ -26,7 +26,7 @@
     - Seamlessly share pre-compiled headers across multiple Visual Studio projects.
   
   * _Cross-Platform_ Compatibility
-    - Use Simple-VS on either Windows or MacOS/X
+    - Windows or MacOS
 
 ## Prerequisites
 
