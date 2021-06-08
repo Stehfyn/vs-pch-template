@@ -30,7 +30,7 @@
     - **MacOS**
 
 ## Prerequisites
-  * **Windows**
+  * ![alt text](https://github.com/Stehfyn/vs-pch-template/blob/main/shared/resources/iconfinder_4375149_logo_windows_icon_512px.png "Logo Title Text 1")**Windows**
     - Visual Studio 2010 or later.
   
   * **MacOS**
