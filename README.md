@@ -20,10 +20,13 @@
   
   * _Speedy_ Directory Management with [Batch Scripts](https://github.com/Stehfyn/vs-pch-template/tree/main/scripts/buildvs)
     - Build, Clean, and Re-build project **.sln** and **.vcxproj** files **from scratch**.
-    - Clean Output and Intermediate directories for all configurations and platforms.
+    - Clean output and intermediate directories for all configurations and platforms.
   
   * _Extended_ PCH Support
-    - Seamlessly share pre-compiled headers across multiple visual studio projects.
+    - Seamlessly share pre-compiled headers across multiple Visual Studio projects.
+  
+  * _Cross-Platform_ Compatibility
+    - Use Simple-VS on either Windows or MacOS/X
 
 ## Prerequisites
 
