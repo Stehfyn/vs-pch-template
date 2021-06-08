@@ -8,21 +8,27 @@
 <h4 align="center">An automated project directory for C++ development on Windows.</h4>
 <p align="center">
   <a href="#key-features">Key Features</a> •
-  <a href='#Prerequisite'>
+  <a href='#prerequisites'>
   <a href="#how-to-use">How To Use</a> •
   <a href="#related">Related</a> •
   <a href="#license">License</a>
 </p>
   
 ## Key Features
-  * _Simplified_ Build Configuration with [Premake5](https://github.com/premake/premake-core)
-    - 
+  * _Simplified_ Build Configurations with [Premake5](https://github.com/premake/premake-core)
+    - Maintain centralized, highly-configurable build configurations written in Lua.
+  
   * _Speedy_ Directory Management with [Batch Scripts](https://github.com/Stehfyn/vs-pch-template/tree/main/scripts/buildvs)
     - Build, Clean, and Re-build project **.sln** and **.vcxproj** files **from scratch**.
     - Clean Output and Intermediate directories for all configurations and platforms.
-  * _Extended_ PCH Support
-    - Seamlessly share a pre-compiled header across multiple visual studio projects.
-  * [KaTeX](https://khan.github.io/KaTeX/) Support
   
+  * _Extended_ PCH Support
+    - Seamlessly share pre-compiled headers across multiple visual studio projects.
+
+##Prerequisites
+
+##How To Use
+  
+## Related
 ## License
 [MIT](https://tldrlegal.com/license/mit-license)
