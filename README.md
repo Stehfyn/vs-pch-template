@@ -25,9 +25,9 @@
   * _Extended_ PCH Support
     - Seamlessly share pre-compiled headers across multiple visual studio projects.
 
-##Prerequisites
+## Prerequisites
 
-##How To Use
+## How To Use
   
 ## Related
 ## License
