@@ -14,6 +14,6 @@
   <a href="#license">License</a>
 </p>
   
-  ## Key Features
+## Key Features
 ## License
 [MIT](https://tldrlegal.com/license/mit-license)
