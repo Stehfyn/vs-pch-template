@@ -29,7 +29,12 @@
     - Windows or MacOS
 
 ## Prerequisites
-
+  * **Windows**
+    - Visual Studio 2010 or later.
+  
+  * **MacOS**
+    - Visual Studio 2019.
+  
 ## How To Use
   
 ## Related
