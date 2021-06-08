@@ -15,9 +15,9 @@
 </p>
   
 ## Key Features
-  * Directory managing [Batch Scripts](https://github.com/Stehfyn/vs-pch-template/tree/main/scripts/buildvs)
+  * Directory-managing [Scripts](https://github.com/Stehfyn/vs-pch-template/tree/main/scripts/buildvs) 
     - Build, Clean, and Re-build your Visual Studio .sln and .vcxproj files automatically
-  * Built-in pre-compiler header support
+  * Extended pre-compiled header support for [Visual Studio](https://visualstudio.microsoft.com/downloads/)
     - Seamlessly share a pre-compiled header across multiple visual studio projects that exist in just one solution
   * [KaTeX](https://khan.github.io/KaTeX/) Support
   
