@@ -16,7 +16,7 @@
   
 ## Key Features
   * _Simplified_ Build Configurations with [Premake5](https://github.com/premake/premake-core)
-    - Maintain centralized, highly-configurable build configurations written in Lua.
+    - Maintain centralized, highly-configurable, stand-alone build configurations written in Lua.
   
   * _Speedy_ Directory Management with [Batch Scripts](https://github.com/Stehfyn/vs-pch-template/tree/main/scripts/buildvs)
     - Build, Clean, and Re-build project **.sln** and **.vcxproj** files **from scratch**.
