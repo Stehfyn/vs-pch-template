@@ -43,5 +43,5 @@
   [MIT](https://tldrlegal.com/license/mit-license)
   
 ---
-> Author: [Stephen Foster](https://github.com/Stehfyn) &nbsp;&middot;&nbsp;
-> GitHub [@Stehfyn](https://github.com/Stehfyn) &nbsp;&middot;&nbsp;
+> [Stephen Foster](https://github.com/Stehfyn) &nbsp;&middot;&nbsp;
+> GitHub [@Stehfyn](https://github.com/Stehfyn)
