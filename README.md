@@ -15,5 +15,11 @@
 </p>
   
 ## Key Features
+  * Directory managing [Batch Scripts](https://github.com/Stehfyn/vs-pch-template/tree/main/scripts/buildvs)
+    - Build, Clean, and Re-build your Visual Studio .sln and .vcxproj files automatically
+  * Sync Scrolling
+    - While you type, LivePreview will automatically scroll to the current location you're editing.
+  * [KaTeX](https://khan.github.io/KaTeX/) Support
+  
 ## License
 [MIT](https://tldrlegal.com/license/mit-license)
