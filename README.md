@@ -5,4 +5,4 @@
    <align="center">Simple-VS
   <br>
 </h1>
-<h4 align="center">Automated project template for Windows that simplifies sharing pre-compiled headers between multiple projects in Visual Studio.<a href="http://electron.atom.io" target="_blank">Electron</a>.</h4>
+<h4 align="center">A simple and automated Windows project directory for C++ development.<a href="http://electron.atom.io" target="_blank">Electron</a>.</h4>
