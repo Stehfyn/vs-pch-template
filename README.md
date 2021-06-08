@@ -18,7 +18,7 @@
   * _Simplified_ Build Configurations with [Premake5](https://github.com/premake/premake-core)
     - Maintain centralized, highly-configurable, stand-alone build configurations written in Lua.
   
-  * _Speedy_ Directory Management with simple [Scripts](https://github.com/Stehfyn/vs-pch-template/tree/main/scripts/buildvs)
+  * _Speedy_ Directory Management with Bash/Batch [Scripts](https://github.com/Stehfyn/vs-pch-template/tree/main/scripts/buildvs)
     - Build, Clean, and Re-build project **.sln** and **.vcxproj** files **from scratch**.
     - Clean output and intermediate directories for all configurations and platforms.
   
