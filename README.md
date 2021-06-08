@@ -16,9 +16,9 @@
   
 ## Key Features
   * _Speedy_ Directory Management
-    - Build, Clean, and Re-build project .sln and .vcxproj files
-    - Clean both Output and Intermediate directories for all configurations and platforms
-  * Simplified/Extended PCH Support
+    - [Scripts](https://github.com/Stehfyn/vs-pch-template/tree/main/scripts/buildvs) to Build, Clean, and Re-build project .sln and .vcxproj files from scratch.
+    - [Scripts](https://github.com/Stehfyn/vs-pch-template/tree/main/scripts/buildvs)to Clean both Output and Intermediate directories for all configurations and platforms.
+  * _Simplified/Extended_ PCH Support
     - Seamlessly share a pre-compiled header across multiple visual studio projects that exist in just one solution
   * [KaTeX](https://khan.github.io/KaTeX/) Support
   
