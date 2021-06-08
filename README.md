@@ -5,7 +5,7 @@
    <align="center">Simple-VS
   <br>
 </h1>
-<h4 align="center">An automated project directory for C++ development.</h4>
+<h4 align="center">An automated project directory template for C++ development.</h4>
 <p align="center">
   <a href="#key-features">Key Features</a> •
   <a href="#prerequisites">Prerequisites</a> •
