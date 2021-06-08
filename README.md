@@ -5,4 +5,4 @@
    <align="center">Simple-VS
   <br>
 </h1>
-<h4 align="center">An automated project directory for C++ development on Windows.<a href="http://electron.atom.io" target="_blank">Electron</a>.</h4>
+<h4 align="center">An automated project directory for C++ development on Windows.</h4>
