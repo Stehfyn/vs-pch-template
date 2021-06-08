@@ -8,7 +8,7 @@
 <h4 align="center">An automated project directory for C++ development.</h4>
 <p align="center">
   <a href="#key-features">Key Features</a> •
-  <a href='#prerequisites'>
+  <a href="#prerequisites">Prerequisites</a> •
   <a href="#how-to-use">How To Use</a> •
   <a href="#related">Related</a> •
   <a href="#license">License</a>
@@ -18,7 +18,7 @@
   * _Simplified_ Build Configurations with [Premake5](https://github.com/premake/premake-core)
     - Maintain centralized, highly-configurable, stand-alone build configurations written in Lua.
   
-  * _Speedy_ Directory Management with [Batch Scripts](https://github.com/Stehfyn/vs-pch-template/tree/main/scripts/buildvs)
+  * _Speedy_ Directory Management with simple [Scripts](https://github.com/Stehfyn/vs-pch-template/tree/main/scripts/buildvs)
     - Build, Clean, and Re-build project **.sln** and **.vcxproj** files **from scratch**.
     - Clean output and intermediate directories for all configurations and platforms.
   
