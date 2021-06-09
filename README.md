@@ -24,17 +24,9 @@
   
   * _Extended_ PCH Support
     - Seamlessly share pre-compiled headers across multiple Visual Studio projects.
-  
-  * _Cross-Platform_ Compatibility
-    - **Windows**
-    - **MacOS**
 
 ## Prerequisites
-  * **Windows**
-    - Visual Studio 2010 or later.
-  
-  * **MacOS**
-    - Visual Studio 2019.
+  * - Visual Studio 2010 or later.
   
 ## How To Use
   
